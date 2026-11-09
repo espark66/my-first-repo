@@ -1,1 +1,1 @@
-# my-first-repo
+GitHub 첫 연습중
